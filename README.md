@@ -9,9 +9,9 @@ Me apasiona el rubro IT y me encuentro en la busqueda de ampliar mi experiencia 
 - Tareas relacionadas principalmente con el Front End de sitios web para pulir conocimientos adquiridos
 - Formar parte de un equipo de desarrolladores que de forma cooperativa programen y den soporte a sitios web de clientes
 
-Habilidades: HTML / CSS / JS
+Habilidades: HTML / CSS / JS / Bootstrap / React
 
-- 🌱 Estoy aprendiendo React y Wordpress 
+- 🌱 Estoy aprendiendo View y Wordpress 
 - 📫 Cómo contactarme: fernandoaguete@hotmail.com.ar💻 o al 1156443351📞  
 
 
