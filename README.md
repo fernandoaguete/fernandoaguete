@@ -11,7 +11,7 @@ Me apasiona el rubro IT y me encuentro en la busqueda de ampliar mi experiencia 
 
 Habilidades: HTML / CSS / JS / Bootstrap / React
 
-- 🌱 Estoy aprendiendo View y Wordpress 
+- 🌱 Estoy aprendiendo Vue y Wordpress 
 - 📫 Cómo contactarme: fernandoaguete@hotmail.com.ar💻 o al 1156443351📞  
 
 
